@@ -1,5 +1,6 @@
 # AI-PLANT DISEASE DETECTION
-
+## 🌱 Live Demo
+https://ai-plant-disease-detection-vzsxhni7g64zingkvwkf32.streamlit.app/
 ## Overview
 AI-Plant is a web-based AI system that detects plant diseases from leaf images and provides simple, farmer-friendly explanations, treatment guidance, and preventive measures in multiple languages. The project integrates a Teachable Machine-trained CNN model, Google Colab, LLMs (OpenAI/Gemini/Claude), and a Gradio interface.
 

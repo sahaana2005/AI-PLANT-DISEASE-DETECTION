@@ -1,0 +1,6 @@
+0 Apple_Scab
+1 Apple_Healthy
+2 Potato_Early_Blight
+3 Potato_Healthy
+4 Tomato_Leaf_Mold
+5 Tomato_Healthy

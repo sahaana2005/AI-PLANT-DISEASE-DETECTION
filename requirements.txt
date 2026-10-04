@@ -1,0 +1,5 @@
+tensorflow-cpu
+streamlit
+google-genai
+pillow
+numpy
